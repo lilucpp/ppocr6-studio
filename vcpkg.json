@@ -1,0 +1,16 @@
+{
+  "name": "ppocr6-studio",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "opencv4",
+    "onnxruntime"
+  ],
+  "features": {
+    "gui": {
+      "description": "Build Qt5 parameter tuning GUI (ppocr6-tuner)",
+      "dependencies": [
+        "qt5-base"
+      ]
+    }
+  }
+}

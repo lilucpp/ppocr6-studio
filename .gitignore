@@ -1,0 +1,14 @@
+build/
+out/
+output*/
+vcpkg_installed/
+models/
+third_party/
+result_*.json
+det_boxes_*.jpg
+testimg/
+*.pyc
+__pycache__/
+.vs/
+*.user
+.reasonix/
